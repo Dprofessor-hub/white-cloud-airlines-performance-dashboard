@@ -293,7 +293,6 @@ Dipanshu Rangari
 
 Data Analyst
 
-### Skills: Excel | SQL | Python | Power BI | Tableau | Statistics | Machine Learning
+#### Skills: Excel | SQL | Python | Power BI | Tableau | Statistics | Machine Learning
 
-### 🔗 GitHub:
-https://github.com/Dprofessor-hub
+### 🔗 GitHub: https://github.com/Dprofessor-hub
